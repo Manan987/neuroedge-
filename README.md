@@ -11,4 +11,4 @@ A complete machine learning project that detects brain tumor types from MRI imag
 - **Confidence Scoring**: Shows prediction confidence percentage
 - **Educational Purpose**: Includes tumor type descriptions and medical disclaimers
 
-## 🏗️ Project Structure
+## 🏗️ Project Structure# brain_tumour
