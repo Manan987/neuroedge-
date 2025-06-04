@@ -13,3 +13,4 @@ A complete machine learning project that detects brain tumor types from MRI imag
 
 ## 🏗️ Project Structure# brain_tumour
 # brain_tumour-
+# brain_tumour-
